@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arm-ARMY
 - 👀 I’m interested in arm architectures, Linux, Raspberry Pi, BSD, cybersecurity and many others...
-- 🌱 I’m currently learning to create a nice terminal based interface to apps that needs long commands and many typing things to work.  
-- 💞️ I’m looking to collaborate on translating some projects 
+- 🌱 I’m currently learning to create a nice terminal based interfaces to apps that needs long commands and many typing things to work.  
+- 💞️ I’m looking to collaborate on testing and translating some projects. 
 - 📫 You can contact me by e-mail: kprstpinet@protonmail.com
 
 <!---
